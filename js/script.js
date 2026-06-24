@@ -114,7 +114,7 @@ function displayBooks(bookArray) {
 displayBooks(books);
 
 //  SEARCH FUNCTIONALITY
-// Filters books based on text typed into the search bar.
+// Filters books based on text typed into the search bar. 
 document.getElementById("searchInput").addEventListener("input", e => {
     const text = e.target.value.toLowerCase();
 
