@@ -126,7 +126,7 @@ document.getElementById("searchInput").addEventListener("input", e => {
 });
 
 //  CATEGORY FILTER
-// Filters books based on the selected category.
+// Filters books based on the selected category. 
 document.getElementById("categoryFilter").addEventListener("change", e => {
     const category = e.target.value;
 
