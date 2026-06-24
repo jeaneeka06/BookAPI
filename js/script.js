@@ -168,4 +168,4 @@ function showDetails(book) {
     document.getElementById("closeDetails").addEventListener("click", () => {
         details.classList.add("hidden");
     });
-}
+} 
