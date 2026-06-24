@@ -139,7 +139,7 @@ document.getElementById("categoryFilter").addEventListener("change", e => {
 });
 
 //  SHOW BOOK DETAILS
-// Displays full book information in the details section.
+// Displays full book information in the details section. 
 function showDetails(book) {
     const details = document.getElementById("bookDetails");
 
